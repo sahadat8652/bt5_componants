@@ -1,0 +1,23 @@
+.c_prev{
+	top: 85%;
+	left: 92%;
+	width: 5%;
+}
+.c_next{
+	top: 85%;
+	width: 5%;
+} 
+.c_indi{   
+	margin-left: 2%;
+	display: block;
+	top: 2%;
+}
+.c_box{
+	width: 2% !important;
+	height: 4% !important;
+	display: block;
+}
+.ss{
+	height: 200px;
+	overflow-y: scroll;
+}
